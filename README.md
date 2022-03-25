@@ -1,2 +1,3 @@
 # poc-demo
-PoC Demos (no code)
+
+This REPO is for PoC Demos (without code).
