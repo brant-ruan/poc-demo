@@ -12,4 +12,4 @@ This REPO is for PoC Demos (without code).
 
 ## CVE-2021-25741 - kubelet
 
-![CVE-2021-25741](https://raw.githubusercontent.com/brant-ruan/poc-demo/m    ain/CVE-2021-25741.png)
+![CVE-2021-25741.png](https://raw.githubusercontent.com/brant-ruan/poc-demo/main/CVE-2021-25741.png)
